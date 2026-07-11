@@ -77,7 +77,7 @@ function Portfolio() {
           letterSpacing: '0.15em',
           color: 'var(--text-secondary)',
           textTransform: 'uppercase'
-        }}>Loading digital pulses...</span>
+        }}>Loading Portfolio</span>
         <style>{`
           @keyframes spin {
             to { transform: rotate(360deg); }
@@ -88,7 +88,7 @@ function Portfolio() {
   }
 
   const personal = data?.personal || {
-    name: "Harshita Maheshwari",
+    name: "Hiten Khetarpal",
     title: "Full-Stack Designer & Creative Technologist",
     headline: "Hi, I am Harshita Maheshwari, welcome to my portfolio",
     subHeadline: "I design and develop high-end digital experiences where aesthetics meet technical precision. Creating the future of web with obsidian voids and digital pulses.",
