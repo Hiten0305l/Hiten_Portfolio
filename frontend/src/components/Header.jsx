@@ -43,7 +43,7 @@ export default function Header() {
           textDecoration: 'none',
           letterSpacing: '-0.02em'
         }}>
-          Harshita Maheshwari
+          Hiten Khetarpal
         </a>
 
         {/* Desktop Nav */}
