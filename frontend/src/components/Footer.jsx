@@ -68,7 +68,7 @@ const getSocialIcon = (title) => {
 
 export default function Footer({ personal, socialLinks }) {
   const currentYear = new Date().getFullYear();
-  const name = personal?.name || "Harshita Maheshwari";
+  const name = personal?.name || "Hiten Khetarpal";
   const links = socialLinks && socialLinks.length > 0 ? socialLinks : [
     { title: 'LinkedIn', url: personal?.linkedin || '#' },
     { title: 'GitHub', url: personal?.github || '#' },
