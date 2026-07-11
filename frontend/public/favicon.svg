@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#7e14ff" />
+    </linearGradient>
+  </defs>
+  <!-- Mortarboard Diamond top -->
+  <path d="M256 64 L480 176 L256 288 L32 176 Z" fill="url(#neonGlow)" />
+  <!-- Cap skull section -->
+  <path d="M128 224 V352 C128 384, 185 416, 256 416 C327 416, 384 384, 384 352 V224" stroke="url(#neonGlow)" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <!-- Tassel -->
+  <path d="M416 192 V304 L432 336 H400 L416 304" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
